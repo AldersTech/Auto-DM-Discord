@@ -14,9 +14,9 @@
 ;             :  |   |                       |:  1    |:  |   |           ;
 |             ::.|:. |                       |::.. . /|::.|:. |           |
 ;             --- ---'                       `------' `--- ---'           ;                                                
-;                    python :: August 2021 :: version x1                  :
+;                           python :: August 2021 :: version x1           :
 :                                                                         .
-.                                                                         |
+.               [ I made this at 4am so dont judge my dirty code ]        |
 ;                                                                         '
 + --- --  -   .     -        ---    ---    ---        -     .    - -- --- '                                                                        
 
